@@ -15,7 +15,7 @@ I-XRAY was built here at Harvard and tested out around campus. Instead of releas
 
 You can read <a href="https://www.nytimes.com/2024/10/24/technology/facial-recognition-glasses-privacy-harvard.html">more about their project</a> in <i>The New York Times</i>.
 
-Their advice for removing yourself from the public databases used for this project can be found in their <a href="https://docs.google.com/document/d/1iWCqmaOUKhKjcKSktIwC3NNANoFP7vPsRvcbOIup_BA/preview?tab=t.0">how-to guide.</a.
+Their advice for removing yourself from the public databases used for this project can be found in their <a href="https://docs.google.com/document/d/1iWCqmaOUKhKjcKSktIwC3NNANoFP7vPsRvcbOIup_BA/preview?tab=t.0">how-to guide</a>.
 
 AnhPhu Nguyen and Caine Ardayfio are students at Harvard College.
 
